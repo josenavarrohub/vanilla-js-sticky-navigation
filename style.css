@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+section {
+  height: 110vh;
+}
+#section1,
+#section3 {
+  background-color: skyblue;
+}
+#section2 {
+  background-color: burlywood;
+}
+
+/* Sticky Navigation Component */
+.c-nav {
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+.c-nav--sticky {
+  position: sticky;
+  top: 0;
+}
+.c-nav_list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+.c-nav_link {
+  display: flex;
+  padding: 10px 12px;
+  color: black;
+  text-decoration: none;
+}
