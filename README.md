@@ -1,4 +1,4 @@
-# 📌 Sticky navigation in Vanilla Javascript
+# 📌 Sticky navigation in Vanilla JavaScript
 
 [![Sticky navigation in Vanilla Javascript](https://github.com/josenavarrohub/vanilla-js-sticky-navigation/blob/main/demo.png?raw=true)](https://josenavarrohub.github.io/vanilla-js-sticky-navigation/)
 
